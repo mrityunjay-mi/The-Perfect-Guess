@@ -2,11 +2,6 @@
 
 A fun, interactive text-based Python game where players try to guess a randomly generated number with the help of dynamic hints.
 
-<!-- Add Shields/Badges here for a professional touch -->
-![Python Version](https://shields.io)
-![License](https://shields.io)
-
----
 
 ## 📖 About the Project
 
